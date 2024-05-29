@@ -7,7 +7,7 @@
 <br>
 
 ## 🧑‍💻 Perdici BICC (Basic Intensive Care Course)
-This is a web-based LMS application in the field of medicine. Includes the following sections:
+This is a web-based Show Case LMS application in the field of medicine. Includes the following sections:
 - Home
 - See Details
 - Testimonial
